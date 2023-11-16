@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2c8b13da8701d754088606df49bbd67a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - abnes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c78f9b99f8d0d634e9c505479fb5feec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
